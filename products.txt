@@ -1,7 +1,0 @@
-[
-  {
-    "name": "firstProd",
-    "price": 100,
-    "id": 1
-  }
-]
